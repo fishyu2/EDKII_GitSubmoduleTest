@@ -1,0 +1,3 @@
+[submodule "Nt32Pkg"]
+	path = Nt32Pkg
+	url = https://github.com/fishyu2/Nt32Pkg.git
